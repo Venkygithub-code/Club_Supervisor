@@ -1,4 +1,4 @@
-## Club Manager - A Social Club/Group Organizer with Blogging Platform.
+## Club_supervisor - A Social Club/Group Organizer with Blogging Platform.
 
 ##### Admin login -
 * username - admin
@@ -42,46 +42,3 @@ Add Your Database Details in **dbconfig.php** file.
 	$dbname = ''; 	//database name
 
 
-```
-## :pushpin: Quick View
-
-### :pushpin: Login
-
-![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/login.png?raw=true "Login")
-
-### :pushpin: Home
-
-![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/home.png?raw=true "Home")
-
-### :pushpin: Blog
-
-![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/blog.png?raw=true "Blog")
-
-### :pushpin: New Blog Post
-
-![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/new_blog.png?raw=true "New Blog")
-
-### :pushpin: Attendance
-
-![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/attendance.png?raw=true "Attendance")
-
-### :pushpin: Notice
-
-![alt text](https://github.com/shindesharad71/Club-Manager/blob/master/screens/notice.png?raw=true "Notice")
-
-### :pushpin: Version
-
-#### v1.0
-* released on 10-9-2016
-
-
-:pushpin: License
-----
-
-MIT
-
-
-**Free Software, Hell Yeah!**
-
-
-( readme updated on 08-06-2017 )
